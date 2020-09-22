@@ -27,7 +27,7 @@
 ## 1. Построение графиков.
 
 * [Простой график](https://colab.research.google.com/github/tatyderb/m2020/blob/master/1_visualization/1_simple_plot.ipynb) - строим первый график шаг за шагом, типы графиков
-* [Шаблон домашней работы 1.1]()
+* [Шаблон домашней работы 1.1](https://colab.research.google.com/github/tatyderb/m2020/blob/master/1_visualization/1_1_homework.ipynb)
 * [Размещаем графики]() - размещение нескольких графиков на одном рисунке.
 * [Шаблон домашней работы 1.2]()
 
