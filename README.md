@@ -26,7 +26,7 @@
 ### Видео
 
 * Google colab (не нужно ничего устанавливать на компьютере)
-  * [Как делать домашнее задание в colabъ(https://www.youtube.com/watch?v=li7Z8P71LRg&list=PLc262Y9PqhEwIBGj_T4G-TXsvzVQWv4vj&index=1)
+  * [Как делать домашнее задание в colab](https://www.youtube.com/watch?v=li7Z8P71LRg&list=PLc262Y9PqhEwIBGj_T4G-TXsvzVQWv4vj&index=1)
   * [Как работать в colab](https://www.youtube.com/watch?v=9HVuDK5OhKQ&list=PLc262Y9PqhEwIBGj_T4G-TXsvzVQWv4vj&index=2)
 * Anaconda jupiter notebook (у кого на компьютере УЖЕ СТОИТ Anaconda)
   * [Как делать домашнее задание в Anaconda jupiter notebook](https://www.youtube.com/watch?v=i-m-4wiBSIo&list=PLc262Y9PqhEwIBGj_T4G-TXsvzVQWv4vj&index=4)
