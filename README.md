@@ -35,8 +35,8 @@
 
 ## 1. Построение графиков.
 
-* [Простой график](https://colab.research.google.com/github/tatyderb/m2020/blob/master/1_visualization/1_simple_plot.ipynb) - строим первый график шаг за шагом, типы графиков
-* [Шаблон домашней работы 1.1](https://colab.research.google.com/github/tatyderb/m2020/blob/master/1_visualization/1_1_homework.ipynb) - не забудьте добавить как вас зовут в заголовок
+* [Простой график](https://colab.research.google.com/github/tatyderb/m2020/blob/master/1_visualization/1_simple_plot.ipynb) - строим первый график шаг за шагом, типы графиков [скачать](https://raw.githubusercontent.com/tatyderb/m2020/blob/master/1_visualization/1_1_homework.ipynb)
+* [Шаблон домашней работы 1.1](https://colab.research.google.com/github/tatyderb/m2020/blob/master/1_visualization/1_1_homework.ipynb) - не забудьте добавить как вас зовут в заголовок [скачать](https://raw.githubusercontent.com/tatyderb/m2020/master/1_visualization/1_simple_plot.ipynb)
 * [Размещаем графики]() - размещение нескольких графиков на одном рисунке.
 * [Шаблон 1.2]() домашней работы
 
