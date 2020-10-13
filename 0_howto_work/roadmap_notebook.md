@@ -1,3 +1,5 @@
+* [Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf) - Шпаргалка
+
 # Как работать с jupiter notebook локально
 
 Можно работать без интернета на своем компьютере. 
@@ -124,3 +126,7 @@
 | 0+0  | Restart the kernel . | 
 | i+i  | Остановить выполнение ячейки (Interrupt an executing cell). | 
 | s  | сохранить тетрадь  | 
+
+## Подробнее
+
+* [Краткое описание всех меню](https://medium.com/edureka/jupyter-notebook-cheat-sheet-88f60d1aca7)
