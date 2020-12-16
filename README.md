@@ -88,5 +88,5 @@
 
 ## Контрольная работа
 
-
+* [Контрольная работа](https://github.com/tatyderb/m2020/blob/master/kr/sympy_variants.pdf) pdf
 
